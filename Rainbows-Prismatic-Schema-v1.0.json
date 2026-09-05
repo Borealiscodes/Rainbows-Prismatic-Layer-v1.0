@@ -1,0 +1,158 @@
+# 🌈 **Rainbows Machine‑Readable Schema v1.0**  
+*Structural Schema — MIT‑Licensed — Non‑Semantic*
+
+> **This schema is machine‑readable but not machine‑interpretable.**  
+It defines *structure*, not *meaning*.  
+It defines *prismatic components*, not *sovereign grammar*.  
+It is safe for automation, rendering, and tooling.
+
+---
+
+## **1. Schema Overview**  
+Rainbows uses a **beam → spectrum → recomposition** pipeline.  
+The schema defines:
+
+- **Beam objects**  
+- **Spectrum objects**  
+- **Facet structures**  
+- **Prismatic shapes**  
+- **Recomposition containers**  
+- **ND‑safe constraints**
+
+Everything is structural.  
+Nothing is semantic.
+
+---
+
+# **2. JSON Schema (machine‑readable, copy‑paste)**
+
+```
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Rainbows Prismatic Schema v1.0",
+  "type": "object",
+
+  "properties": {
+    "beam": {
+      "type": "object",
+      "description": "Non-sovereign conceptual input.",
+      "properties": {
+        "id": { "type": "string" },
+        "label": { "type": "string" }
+      },
+      "required": ["id", "label"]
+    },
+
+    "spectrum": {
+      "type": "object",
+      "description": "Prismatic decomposition of the beam.",
+      "properties": {
+        "hue": { "type": "string" },
+        "value": { "type": "number" },
+        "chroma": { "type": "number" },
+        "gradient": { "type": "string" },
+        "refractionAngle": { "type": "number" },
+        "scatterPattern": { "type": "string" }
+      },
+      "required": [
+        "hue",
+        "value",
+        "chroma",
+        "gradient",
+        "refractionAngle",
+        "scatterPattern"
+      ]
+    },
+
+    "visualGrammar": {
+      "type": "object",
+      "description": "General prismatic shapes and motions.",
+      "properties": {
+        "raylines": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "spectraBands": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "chromaticNodes": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "gradientFields": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "scatterClouds": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "recomposition": {
+      "type": "object",
+      "description": "ND-safe prismatic recomposition.",
+      "properties": {
+        "diagramType": { "type": "string" },
+        "elements": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+
+  "required": ["beam", "spectrum"]
+}
+```
+
+---
+
+# **3. Schema Guarantees**
+
+### **3.1. Machine‑Readable**
+The schema is:
+
+- parseable  
+- consistent  
+- structured  
+- deterministic  
+- tooling‑friendly  
+
+### **3.2. Machine‑Non‑Interpretable**
+The schema **cannot**:
+
+- infer meaning  
+- activate Storm  
+- simulate membranes  
+- extract semantics  
+- interpret emotional or conceptual content  
+
+It is structural only.
+
+### **3.3. ND‑Safe**
+All fields:
+
+- avoid directive semantics  
+- avoid activation logic  
+- avoid personal inference  
+- preserve optionality  
+
+---
+
+# **4. MIT Licensing Clause**
+The schema is MIT‑licensed and may be:
+
+- used  
+- modified  
+- extended  
+- embedded  
+- distributed  
+
+Storm’s organism remains sovereign and unlicensed.
+
+---
+
+#
