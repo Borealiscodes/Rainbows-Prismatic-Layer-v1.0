@@ -1,0 +1,90 @@
+{
+  "rainbowsModesSpine": {
+    "version": "1.0",
+    "charterVersion": "1.1",
+    "modes": {
+      "gentle": {
+        "altitude": "low",
+        "pacing": "slow",
+        "cognitiveLoad": "light",
+        "visualGrammar": "soft-prismatic",
+        "spectrumFacets": [
+          "hue",
+          "value",
+          "gradient"
+        ],
+        "intake": "soft-beam",
+        "recomposition": "gentle-diagram",
+        "ndSafe": true,
+        "interpretation": "non-semantic",
+        "supportProfile": "high-support",
+        "equityRendering": true,
+        "culturalAdaptation": true,
+        "culturalNeutrality": true
+      },
+      "structured": {
+        "altitude": "mid",
+        "pacing": "medium",
+        "cognitiveLoad": "moderate",
+        "visualGrammar": "prismatic-structured",
+        "spectrumFacets": [
+          "hue",
+          "value",
+          "chroma",
+          "gradient",
+          "refractionAngle",
+          "scatterPattern"
+        ],
+        "intake": "structured-beam",
+        "recomposition": "prismatic-diagram",
+        "ndSafe": true,
+        "interpretation": "non-semantic",
+        "supportProfile": "support-variable",
+        "equityRendering": true,
+        "culturalAdaptation": true,
+        "culturalNeutrality": true
+      },
+      "spectral": {
+        "altitude": "high",
+        "pacing": "high-altitude",
+        "cognitiveLoad": "dense-structured",
+        "visualGrammar": "spectral-prismatic",
+        "spectrumFacets": [
+          "hue",
+          "value",
+          "chroma",
+          "gradient",
+          "refractionAngle",
+          "scatterPattern",
+          "spectralWeight",
+          "phaseShift",
+          "holonomyLoop"
+        ],
+        "operators": [
+          "delta",
+          "phi",
+          "omega",
+          "lambda",
+          "sigma"
+        ],
+        "intake": "spectral-beam",
+        "recomposition": "spectral-diagram",
+        "ndSafe": true,
+        "interpretation": "non-semantic",
+        "supportProfile": "support-variable",
+        "equityRendering": true,
+        "culturalAdaptation": true,
+        "culturalNeutrality": true
+      }
+    },
+    "invariants": {
+      "equityRendering": true,
+      "supportBasedFraming": true,
+      "culturalNeutrality": true,
+      "culturalAdaptation": true,
+      "ndSafe": true,
+      "sovereigntyNeutral": true,
+      "nonInterpretiveGrammar": true
+    }
+  }
+}
