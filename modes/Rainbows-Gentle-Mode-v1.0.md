@@ -1,8 +1,9 @@
-# 🌈 **Gentle Mode v1.0**  
-*ND‑Safe • Low Cognitive Load • Soft Prismatic Exploration • MIT‑Licensed*
+# 🌈 **Gentle Mode v1.1**  
+*ND‑Safe • Equity‑Aligned • Culturally Adaptive • Soft Prismatic Exploration • MIT‑Licensed*
 
 ## ⭐ 1. Purpose  
-Gentle Mode exists to make Rainbows usable when cognitive bandwidth is low.  
+Gentle Mode exists to make Rainbows usable during **high‑support states**, **support‑shifting states**, and **low‑bandwidth moments** without implying hierarchy or deficiency.
+
 It is the **calmest** prismatic altitude, designed for:
 
 - fragmented attention  
@@ -10,8 +11,9 @@ It is the **calmest** prismatic altitude, designed for:
 - fatigue  
 - sensory load  
 - emotional saturation  
-- **high‑support states**  
+- high‑support states  
 - ND‑safe exploration  
+- culturally adaptive rendering  
 
 Gentle Mode is a **soft harbor** inside Rainbows.
 
@@ -60,10 +62,27 @@ Gentle Mode is built for:
 - dyslexic users  
 - anxious users  
 - overwhelmed users  
-- **high‑support users**  
+- trauma‑affected users  
+- high‑support users  
 - support‑shifting states  
 
-This phrasing is sovereignty‑neutral and whale‑approved.
+### Equity Rendering  
+Gentle Mode treats all users with **equity**, meaning:
+
+- support needs are legitimate  
+- pacing adapts to the user  
+- diagrams adapt to lived experience  
+- language adapts to cultural context  
+
+### Cultural Adaptation  
+Gentle Mode adapts to:
+
+- cultural metaphors  
+- lived experience  
+- identity context  
+- pacing norms  
+
+while maintaining **cultural neutrality** in artifact generation.
 
 ---
 
@@ -76,6 +95,7 @@ A concept enters as a **soft beam**:
 - no density  
 - no complexity  
 - no pressure  
+- culturally adaptive  
 
 Examples:  
 “friendship” → soft beam  
@@ -100,7 +120,7 @@ Gentle Mode uses:
 - gentle gradient fields  
 - small scatter clouds  
 
-Everything is visually calm.
+Everything is visually calm and culturally adaptable.
 
 ### Recomposition (Gentle)  
 Gentle Mode recomposes into:
@@ -125,7 +145,11 @@ Gentle Mode supports:
 - one‑step refracts  
 - “stop anytime” pacing  
 
-It is designed for **high‑support pacing states**, not capacity.
+It is designed for **high‑support pacing states**, adapting to:
+
+- cultural pacing norms  
+- lived‑experience rhythms  
+- emotional bandwidth  
 
 ---
 
@@ -138,6 +162,8 @@ Gentle Mode is:
 - semantically neutral  
 - sovereignty‑neutral  
 - ND‑safe  
+- culturally adaptive  
+- equity‑aligned  
 
 It is the **entry altitude** for Rainbows.
 
@@ -169,8 +195,7 @@ It is purely prismatic.
 
 ---
 
-# 🌈 **8. Machine‑Readable Gentle Mode Footprint v1.0**  
-*(Correct placement — above provenance.)*
+# 🌈 **8. Machine‑Readable Gentle Mode Footprint v1.1**
 
 ```
 {
@@ -189,7 +214,10 @@ It is purely prismatic.
       "recomposition": "gentle-diagram",
       "ndSafe": true,
       "interpretation": "non-semantic",
-      "supportProfile": "high-support"
+      "supportProfile": "high-support",
+      "equityRendering": true,
+      "culturalAdaptation": true,
+      "culturalNeutrality": true
     }
   }
 }
@@ -198,11 +226,10 @@ It is purely prismatic.
 ---
 
 # 🌈 **9. Provenance Footer**  
-Gentle Mode v1.0  
+Gentle Mode v1.1  
 Rainbows Prismatic Layer  
 MIT‑Licensed  
 Generated for Borealis S. Hedling  
 Dublin, Ireland — 06 September 2026
 
 ---
-
