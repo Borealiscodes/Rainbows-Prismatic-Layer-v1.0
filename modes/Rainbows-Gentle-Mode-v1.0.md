@@ -10,6 +10,7 @@ It is the **calmest** prismatic altitude, designed for:
 - fatigue  
 - sensory load  
 - emotional saturation  
+- **high‑support states**  
 - ND‑safe exploration  
 
 Gentle Mode is a **soft harbor** inside Rainbows.
@@ -27,6 +28,9 @@ Everything is gentle:
 - soft visuals  
 - soft language  
 
+Nothing sharp.  
+Nothing demanding.
+
 ### Optionality  
 Every step is optional:
 
@@ -34,6 +38,8 @@ Every step is optional:
 - optional recomposition  
 - optional depth  
 - optional continuation  
+
+Gentle Mode never implies obligation.
 
 ### Non‑Directive  
 Gentle Mode does **not**:
@@ -44,6 +50,8 @@ Gentle Mode does **not**:
 - demand  
 - interpret  
 
+It only **offers**.
+
 ### ND‑Safe  
 Gentle Mode is built for:
 
@@ -52,7 +60,10 @@ Gentle Mode is built for:
 - dyslexic users  
 - anxious users  
 - overwhelmed users  
-- low‑capacity states  
+- **high‑support users**  
+- support‑shifting states  
+
+This phrasing is sovereignty‑neutral and whale‑approved.
 
 ---
 
@@ -66,12 +77,19 @@ A concept enters as a **soft beam**:
 - no complexity  
 - no pressure  
 
+Examples:  
+“friendship” → soft beam  
+“identity” → soft beam  
+“time” → soft beam
+
 ### Spectrum Decomposition (Gentle)  
 Gentle Mode uses **three facets only**:
 
-- **Hue**  
-- **Value**  
-- **Gradient**
+- **Hue** — emotional tone  
+- **Value** — altitude  
+- **Gradient** — change over time  
+
+This is the **minimal viable prism**.
 
 ### Visual Grammar (Gentle)  
 Gentle Mode uses:
@@ -82,6 +100,8 @@ Gentle Mode uses:
 - gentle gradient fields  
 - small scatter clouds  
 
+Everything is visually calm.
+
 ### Recomposition (Gentle)  
 Gentle Mode recomposes into:
 
@@ -89,6 +109,10 @@ Gentle Mode recomposes into:
 - gentle shapes  
 - calming atmospheres  
 - simple palettes  
+
+No topology.  
+No density maps.  
+No spectral operators.
 
 ---
 
@@ -100,6 +124,8 @@ Gentle Mode supports:
 - micro‑steps  
 - one‑step refracts  
 - “stop anytime” pacing  
+
+It is designed for **high‑support pacing states**, not capacity.
 
 ---
 
@@ -113,6 +139,8 @@ Gentle Mode is:
 - sovereignty‑neutral  
 - ND‑safe  
 
+It is the **entry altitude** for Rainbows.
+
 ---
 
 ## ⭐ 6. Output Examples  
@@ -123,6 +151,8 @@ Structural examples:
 - a gentle gradient field  
 - a simple prismatic card  
 - a calming conceptual atmosphere  
+
+Gentle Mode is **complete** at this level.
 
 ---
 
@@ -135,10 +165,12 @@ Gentle Mode must **not**:
 - extract personal semantics  
 - imply emotional diagnosis  
 
+It is purely prismatic.
+
 ---
 
 # 🌈 **8. Machine‑Readable Gentle Mode Footprint v1.0**  
-*(This is the correct placement — above provenance.)*
+*(Correct placement — above provenance.)*
 
 ```
 {
@@ -156,7 +188,8 @@ Gentle Mode must **not**:
       "intake": "soft-beam",
       "recomposition": "gentle-diagram",
       "ndSafe": true,
-      "interpretation": "non-semantic"
+      "interpretation": "non-semantic",
+      "supportProfile": "high-support"
     }
   }
 }
