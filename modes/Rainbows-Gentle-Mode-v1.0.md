@@ -1,95 +1,79 @@
 # 🌈 **Gentle Mode v1.0**  
-*ND‑Safe • Low Cognitive Load • Soft Prismatic Exploration*
+*ND‑Safe • Low Cognitive Load • Soft Prismatic Exploration • MIT‑Licensed*
 
-## ⭐ **1. Purpose**  
-Gentle Mode exists to make Rainbows usable when:
+## ⭐ 1. Purpose  
+Gentle Mode exists to make Rainbows usable when cognitive bandwidth is low.  
+It is the **calmest** prismatic altitude, designed for:
 
-- cognitive load is low  
-- pacing needs to be slow  
-- overwhelm is present  
-- attention is fragmented  
-- emotional bandwidth is limited  
-- exploration must be soft, optional, and non‑pressuring  
+- fragmented attention  
+- overwhelm  
+- fatigue  
+- sensory load  
+- emotional saturation  
+- ND‑safe exploration  
 
-It is the **calmest** prismatic altitude.
+Gentle Mode is a **soft harbor** inside Rainbows.
 
 ---
 
-## ⭐ **2. Core Principles**
+## ⭐ 2. Core Principles
 
-### **2.1. Softness**  
-All interactions are gentle:
+### Softness  
+Everything is gentle:
 
 - soft gradients  
 - soft transitions  
 - soft pacing  
-- soft language  
 - soft visuals  
+- soft language  
 
-Nothing sharp, nothing demanding.
-
-### **2.2. Optionality**  
+### Optionality  
 Every step is optional:
 
 - optional decomposition  
 - optional recomposition  
-- optional exploration  
 - optional depth  
 - optional continuation  
 
-Gentle Mode never implies “you should.”
-
-### **2.3. Non‑Directive**  
-Gentle Mode does not:
+### Non‑Directive  
+Gentle Mode does **not**:
 
 - instruct  
-- direct  
 - push  
 - activate  
-- pressure  
+- demand  
+- interpret  
 
-It only **offers**.
-
-### **2.4. ND‑Safe**  
-Gentle Mode is designed for:
+### ND‑Safe  
+Gentle Mode is built for:
 
 - autistic users  
 - ADHD users  
 - dyslexic users  
 - anxious users  
-- fatigued users  
 - overwhelmed users  
-- anyone needing calm conceptual space  
-
-It is a **safe harbor**.
+- low‑capacity states  
 
 ---
 
-## ⭐ **3. Mechanics**
+## ⭐ 3. Mechanics
 
-### **3.1. Beam Intake (Gentle)**  
+### Beam Intake (Gentle)  
 A concept enters as a **soft beam**:
 
-- no gating  
-- no complexity  
 - no jargon  
+- no density  
+- no complexity  
 - no pressure  
 
-Example:  
-“friendship” → soft beam  
-“time” → soft beam  
-“identity” → soft beam  
+### Spectrum Decomposition (Gentle)  
+Gentle Mode uses **three facets only**:
 
-### **3.2. Spectrum Decomposition (Gentle)**  
-Gentle Mode uses **three** facets only:
+- **Hue**  
+- **Value**  
+- **Gradient**
 
-- **Hue** — emotional tone  
-- **Value** — altitude (high/low)  
-- **Gradient** — how it changes  
-
-This is the *minimal viable prism*.
-
-### **3.3. Visual Grammar (Gentle)**  
+### Visual Grammar (Gentle)  
 Gentle Mode uses:
 
 - soft raylines  
@@ -98,24 +82,17 @@ Gentle Mode uses:
 - gentle gradient fields  
 - small scatter clouds  
 
-Everything is visually calm.
-
-### **3.4. Recomposition (Gentle)**  
+### Recomposition (Gentle)  
 Gentle Mode recomposes into:
 
-- simple diagrams  
-- soft palettes  
+- soft diagrams  
 - gentle shapes  
 - calming atmospheres  
-
-No complexity.  
-No topology.  
-No density maps.
+- simple palettes  
 
 ---
 
-## ⭐ **4. Pacing**
-
+## ⭐ 4. Pacing  
 Gentle Mode supports:
 
 - slow pacing  
@@ -124,27 +101,22 @@ Gentle Mode supports:
 - one‑step refracts  
 - “stop anytime” pacing  
 
-It is designed for **low bandwidth**.
-
 ---
 
-## ⭐ **5. Accessibility**
-
+## ⭐ 5. Accessibility  
 Gentle Mode is:
 
 - cognitively light  
-- emotionally safe  
+- emotionally neutral  
 - visually soft  
 - semantically neutral  
-- non‑interpretable  
 - sovereignty‑neutral  
-
-It is the **entry altitude** for Rainbows.
+- ND‑safe  
 
 ---
 
-## ⭐ **6. Output Examples (Gentle)**  
-These are structural examples, not content:
+## ⭐ 6. Output Examples  
+Structural examples:
 
 - a 3‑color palette  
 - a soft diagram with 2–3 nodes  
@@ -152,11 +124,9 @@ These are structural examples, not content:
 - a simple prismatic card  
 - a calming conceptual atmosphere  
 
-Gentle Mode is **complete** at this level.
-
 ---
 
-## ⭐ **7. Non‑Interpretability Boundary**  
+## ⭐ 7. Non‑Interpretability Boundary  
 Gentle Mode must **not**:
 
 - infer meaning  
@@ -165,16 +135,41 @@ Gentle Mode must **not**:
 - extract personal semantics  
 - imply emotional diagnosis  
 
-It is purely prismatic.
+---
+
+# 🌈 **8. Machine‑Readable Gentle Mode Footprint v1.0**  
+*(This is the correct placement — above provenance.)*
+
+```
+{
+  "rainbowsModes": {
+    "gentle": {
+      "altitude": "low",
+      "pacing": "slow",
+      "cognitiveLoad": "light",
+      "visualGrammar": "soft-prismatic",
+      "spectrumFacets": [
+        "hue",
+        "value",
+        "gradient"
+      ],
+      "intake": "soft-beam",
+      "recomposition": "gentle-diagram",
+      "ndSafe": true,
+      "interpretation": "non-semantic"
+    }
+  }
+}
+```
 
 ---
 
-## ⭐ **8. Provenance Footer**  
+# 🌈 **9. Provenance Footer**  
 Gentle Mode v1.0  
 Rainbows Prismatic Layer  
 MIT‑Licensed  
 Generated for Borealis S. Hedling  
-Dublin, Ireland — 05 September 2026
+Dublin, Ireland — 06 September 2026
 
 ---
 
