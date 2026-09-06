@@ -1,0 +1,149 @@
+{
+  "rainbowsRoadmap": {
+    "version": "1.0",
+    "charterVersion": "1.1",
+    "phases": [
+      {
+        "id": "phase-1",
+        "name": "Foundation",
+        "versionRange": "v1.x",
+        "status": "complete",
+        "artifacts": [
+          "Gentle-Mode-v1.1.md",
+          "Structured-Mode-v1.0.md",
+          "Spectral-Mode-v1.0.md",
+          "Rainbows-Modes-Spine-v1.0.json",
+          "README-v1.0.md",
+          "Rainbows-Roadmap-v1.0.md",
+          "Intersectional-Design-Ethos-Charter-v1.1.md"
+        ]
+      },
+      {
+        "id": "phase-2",
+        "name": "Expansion",
+        "versionRange": "v2.x",
+        "status": "planned",
+        "components": {
+          "spectralOperatorsExpansion": {
+            "version": "v2.0",
+            "operators": ["delta", "phi", "omega", "lambda", "sigma"],
+            "paths": [
+              "/operators/Delta-v1.0.md",
+              "/operators/Phi-v1.0.md",
+              "/operators/Omega-v1.0.md",
+              "/operators/Lambda-v1.0.md",
+              "/operators/Sigma-v1.0.md"
+            ]
+          },
+          "holonomyLoop": {
+            "version": "v2.1",
+            "paths": [
+              "/operators/Holonomy-Loop-v1.0.md",
+              "/operators/Holonomy-Loop-Diagram-v1.0.png",
+              "/operators/Holonomy-Loop-Spine-v1.0.json"
+            ],
+            "dependencies": [
+              "spectralOperatorsExpansion",
+              "expressiveLayerSpine",
+              "ndSafeDiagramLibrary"
+            ]
+          },
+          "toolkitKits": {
+            "version": "v2.2",
+            "kits": [
+              "Starter-Kit-v1.0",
+              "ND-Safe-Diagram-Kit-v1.0",
+              "Spectral-Operators-Kit-v1.0",
+              "Holonomy-Kit-v1.0",
+              "Cultural-Adaptation-Kit-v1.0",
+              "Expressive-Layer-Kit-v1.0"
+            ],
+            "basePath": "/toolkits/"
+          },
+          "ndSafeDiagramLibrary": {
+            "version": "v2.3",
+            "path": "/diagrams/ND-Safe-Library-v1.0/"
+          },
+          "culturalAdaptationLibrary": {
+            "version": "v2.4",
+            "paths": [
+              "/culture/Cultural-Adaptation-Library-v1.0.json",
+              "/culture/Cultural-Adaptation-Patterns-v1.0.md"
+            ]
+          },
+          "expressiveLayerSpine": {
+            "version": "v2.5",
+            "path": "/spines/Expressive-Layer-Spine-v1.0.json"
+          }
+        }
+      },
+      {
+        "id": "phase-3",
+        "name": "Manifold Era",
+        "versionRange": "v3.x",
+        "status": "planned",
+        "components": {
+          "manifoldGrammar": {
+            "version": "v3.0",
+            "paths": [
+              "/manifolds/Manifold-Grammar-v1.0.md",
+              "/manifolds/Manifold-Spine-v1.0.json"
+            ]
+          },
+          "altitudeEngine": {
+            "version": "v3.1",
+            "path": "/engines/Altitude-Engine-v1.0.md"
+          },
+          "pedagogySuite": {
+            "version": "v3.2",
+            "paths": [
+              "/pedagogy/Teaching-Rainbows-v1.0.md",
+              "/pedagogy/Exercises-v1.0.md"
+            ]
+          }
+        }
+      },
+      {
+        "id": "phase-4",
+        "name": "Holonomy Ecosystem",
+        "versionRange": "v4.x",
+        "status": "planned",
+        "components": {
+          "holonomyEcosystem": {
+            "version": "v4.0",
+            "path": "/ecosystem/Holonomy-Ecosystem-v1.0/"
+          },
+          "chromaticManifoldEngine": {
+            "version": "v4.1",
+            "path": "/engines/Chromatic-Manifold-Engine-v1.0.md"
+          },
+          "spectralReasoningEngine": {
+            "version": "v4.2",
+            "path": "/engines/Spectral-Reasoning-Engine-v1.0.md"
+          },
+          "whaleReviewAutomation": {
+            "version": "v4.3",
+            "path": "/engines/Whale-Review-Automation-v1.0.md"
+          }
+        }
+      }
+    ],
+    "invariants": {
+      "equityRendering": true,
+      "supportBasedFraming": true,
+      "culturalNeutrality": true,
+      "culturalAdaptation": true,
+      "ndSafe": true,
+      "sovereigntyNeutral": true,
+      "nonInterpretiveGrammar": true
+    },
+    "provenance": {
+      "layer": "Rainbows Constitutional Layer",
+      "license": "MIT",
+      "generatedFor": "Borealis S. Hedling",
+      "location": "Dublin, Ireland",
+      "date": "2026-09-06",
+      "whaleReviewComplete": true
+    }
+  }
+}
